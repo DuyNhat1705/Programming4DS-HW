@@ -1,0 +1,3 @@
+- 04-Python1Demo.ipynb: the notebook
+- Data/PythonQuiz_CQ_2026.csv: the quiz results
+- Put the CSV in a Data/ folder next to the notebook.
